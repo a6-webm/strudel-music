@@ -1,8 +1,8 @@
 setcpm(90/4)
 $: s("[<bd -> - - -] [hh - - -] [bd - bd -] [hh - <bd -> -]").bank("casiorz1")
 $: note(`<
-43 43 45 45,
-55 55 55 55,
-59 59 59 57,
-64 62 61 60
+g2 g2 a2 a2,
+g3 g3 g3 g3,
+b3 b3 b3 a3,
+e4 d4 db4 c4
 >`).s("gm_accordion")
